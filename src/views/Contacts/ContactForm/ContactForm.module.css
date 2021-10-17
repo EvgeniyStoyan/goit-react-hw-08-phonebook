@@ -1,0 +1,37 @@
+.container_form {
+  width: 500px;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: start;
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 6px;
+  justify-content: flex-start;
+  padding: 16px;
+}
+
+.label_text {
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 00;
+  line-height: 1.19;
+  color: black;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+}
+
+.input_form {
+  display: block;
+  height: 24px;
+  width: 180px;
+  border-radius: 6px;
+  text-align: center;
+}

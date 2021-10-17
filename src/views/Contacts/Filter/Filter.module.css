@@ -1,0 +1,16 @@
+.label_filter {
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 5000;
+  line-height: 1.19;
+  color: black;
+  height: 26px;
+}
+
+.input_filter {
+  margin-left: 28px;
+  border-radius: 6px;
+  height: 24px;
+  width: 180px;
+}

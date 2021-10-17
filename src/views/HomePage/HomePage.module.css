@@ -1,0 +1,12 @@
+.title {
+  width: 700px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  color: black;
+  font-family: Roboto, sans-serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.19;
+}
