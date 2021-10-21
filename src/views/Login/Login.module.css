@@ -1,0 +1,24 @@
+.form {
+  width: 320px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  color: white;
+}
+
+.login_title {
+  color: white;
+}
+
+button {
+  padding: 6px 10px 6px 10px;
+  width: 100px;
+  height: auto;
+  border-radius: 6px;
+  outline: none;
+  background-color: #ff00ff;
+  color: white;
+}

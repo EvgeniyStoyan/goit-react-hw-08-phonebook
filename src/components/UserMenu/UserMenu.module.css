@@ -1,12 +1,14 @@
-/* .container {
+.container {
   display: flex;
+  align-items: center;
 }
 
 .avatar {
-  margin-right: 4px;
+  margin-right: 10px;
 }
 
 .name {
   font-weight: 700s;
-  margin-right: 12px;
-} */
+  margin-right: 20px;
+  color: white;
+}

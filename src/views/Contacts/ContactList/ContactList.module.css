@@ -1,7 +1,7 @@
 .contacts_list {
   width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto;
+  margin-right: auto; */
   padding-left: 0;
 }
 
@@ -9,7 +9,7 @@
   display: flex;
   align-items: center;
   padding: 20px;
-  border: 1px solid black;
+  border: 1px solid white;
   justify-content: space-between;
   border-radius: 6px;
   margin-bottom: 10px;
@@ -21,7 +21,7 @@ button {
   height: auto;
   border-radius: 6px;
   outline: none;
-  background-color: blue;
+  background-color: #ff00ff;
   color: white;
 }
 
@@ -33,5 +33,5 @@ button {
   font-style: normal;
   font-weight: 700;
   line-height: 1.19;
-  color: black;
+  color: white;
 }

@@ -19,7 +19,7 @@ const HomePage = lazy(() =>
   import('./views/HomePage/HomePage' /* webpackChunkName: "home-page" */),
 );
 const Register = lazy(() =>
-  import('./views/Register/Rigister' /* webpackChunkName: "register" */),
+  import('./views/Register/Register' /* webpackChunkName: "register" */),
 );
 const Login = lazy(() =>
   import('./views/Login/Login' /* webpackChunkName: "login" */),
